@@ -2,9 +2,7 @@
 
 ## use without authentication? 
 
-need to finish this:
-
-https://github.com/elt/googleplay/blob/main/get_items.go
+need to finish `get_items.go`
 
 plus look into `/fdfe/delivery`
 

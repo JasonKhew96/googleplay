@@ -1,7 +1,7 @@
 package main
 
 import (
-   "github.com/elt/googleplay"
+   "2a.pages.dev/googleplay"
    "os"
 )
 

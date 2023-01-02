@@ -1,7 +1,7 @@
+2a.pages.dev/rosso v1.0.3 h1:Dl0Gu6dN1ANzKnfHPhJTi89KkeTl9C7kNpY/JdjMqJU=
+2a.pages.dev/rosso v1.0.3/go.mod h1:VCdNYTQZRHyEjCmNDV1TIw3ZI0P5LQevse72+QONTu4=
 github.com/andybalholm/brotli v1.0.4 h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=
 github.com/andybalholm/brotli v1.0.4/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
-github.com/elt/rosso v1.0.1 h1:AqLHkHfd1Ktn75SBNsNvr3YKWPwpxX0IHKwqxuaR1mE=
-github.com/elt/rosso v1.0.1/go.mod h1:dshTAZM9AQx1rgK2uQPzmdWCp4UxjWOKiX30fc1J3vU=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/klauspost/compress v1.15.12 h1:YClS/PImqYbn+UILDnqxQCZ3RehC9N318SU3kElDUEM=

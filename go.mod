@@ -1,8 +1,8 @@
-module github.com/elt/googleplay
+module 2a.pages.dev/googleplay
 
 go 1.19
 
-require github.com/elt/rosso v1.0.1
+require 2a.pages.dev/rosso v1.0.3
 
 require (
 	github.com/andybalholm/brotli v1.0.4 // indirect

@@ -2,7 +2,7 @@ package googleplay
 
 import (
    "errors"
-   "github.com/elt/rosso/protobuf"
+   "2a.pages.dev/rosso/protobuf"
    "io"
    "net/http"
    "net/url"

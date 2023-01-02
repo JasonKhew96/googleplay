@@ -2,7 +2,7 @@ package main
 
 import (
    "flag"
-   "github.com/elt/googleplay"
+   "2a.pages.dev/googleplay"
    "os"
 )
 

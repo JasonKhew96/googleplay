@@ -2,8 +2,8 @@ package googleplay
 
 import (
    "errors"
-   "github.com/elt/rosso/protobuf"
-   "github.com/elt/rosso/strconv"
+   "2a.pages.dev/rosso/protobuf"
+   "2a.pages.dev/rosso/strconv"
    "io"
    "net/http"
    "net/url"
