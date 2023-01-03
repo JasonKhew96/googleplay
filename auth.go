@@ -1,10 +1,10 @@
 package googleplay
 
 import (
-   "bufio"
    "2a.pages.dev/rosso/crypto"
    "2a.pages.dev/rosso/http"
    "2a.pages.dev/rosso/protobuf"
+   "bufio"
    "io"
    "net/url"
    "os"

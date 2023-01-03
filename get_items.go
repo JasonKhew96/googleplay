@@ -1,9 +1,9 @@
 package googleplay
 
 import (
+   "2a.pages.dev/rosso/protobuf"
    "bytes"
    "encoding/base64"
-   "2a.pages.dev/rosso/protobuf"
    "net/http"
    "os"
 )
