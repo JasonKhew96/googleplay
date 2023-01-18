@@ -15,7 +15,7 @@ extract archive. Then download GooglePlay Zip and extract archive. Then
 navigate to:
 
 ~~~
-googleplay-master/cmd/googleplay
+googleplay-main/cmd/googleplay
 ~~~
 
 and enter:
@@ -28,11 +28,11 @@ go build
 
 ## Tool examples
 
-Before trying to Sign in, make sure your IP is correct. You can test by logging
-into your Google account with a web browser. Also, make sure the Google account
-you are using has logged into the Play Store at least once before, using a
-physical or virtual Android device. Create a file containing token (`aas_et`)
-for future requests:
+Before trying to Sign in, make sure your location is correct, to avoid
+geo-blocking. You can test by logging into your Google account with a web
+browser. Also, make sure the Google account you are using has logged into the
+Play Store at least once before, using a physical or virtual Android device.
+Create a file containing token (`aas_et`) for future requests:
 
 ~~~
 googleplay -email EMAIL -password PASSWORD
@@ -50,11 +50,11 @@ Get app details:
 > googleplay -a com.google.android.youtube
 Title: YouTube
 Creator: Google LLC
-Upload Date: Dec 8, 2022
-Version: 17.48.44
-Version Code: 1533158848
-Num Downloads: 13.04 billion
-Installation Size: 50.39 megabyte
+Upload Date: Jan 9, 2023
+Version: 18.01.36
+Version Code: 1535370688
+Num Downloads: 13.27 billion
+Installation Size: 47.42 megabyte
 File: APK APK APK APK
 Offer: 0 USD
 ~~~
@@ -70,7 +70,7 @@ provided by the previous details command. If APK is split, all pieces will be
 downloaded:
 
 ~~~
-googleplay -a com.google.android.youtube -v 1533158848
+googleplay -a com.google.android.youtube -v 1535370688
 ~~~
 
 ## Contact
